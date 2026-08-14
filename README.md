@@ -32,7 +32,7 @@ I'm currently exploring:
 
 
 
-## 🤝 Let's Connec
+## 🤝 Let's Connect
 
 I'm always happy to connect with other students, beginners, and developers.
 
